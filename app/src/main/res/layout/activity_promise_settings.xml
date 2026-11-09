@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/background"
+    android:gravity="center"
+    android:orientation="vertical"
+    android:padding="72dp">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="약속 설정"
+        android:textColor="@color/text_primary"
+        android:textSize="48sp"
+        android:textStyle="bold" />
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="14dp"
+        android:text="정차 중에만 바꿀 수 있습니다."
+        android:textColor="@color/text_secondary"
+        android:textSize="26sp" />
+
+    <Switch
+        android:id="@+id/sunsetPromiseSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginTop="48dp"
+        android:background="@color/surface"
+        android:paddingStart="32dp"
+        android:paddingEnd="32dp"
+        android:text="해 지기 전 도착"
+        android:textColor="@color/text_primary"
+        android:textSize="34sp" />
+
+    <Switch
+        android:id="@+id/breakPromiseSwitch"
+        android:layout_width="match_parent"
+        android:layout_height="88dp"
+        android:layout_marginTop="20dp"
+        android:background="@color/surface"
+        android:paddingStart="32dp"
+        android:paddingEnd="32dp"
+        android:text="2시간마다 쉬기"
+        android:textColor="@color/text_primary"
+        android:textSize="34sp" />
+
+    <Button
+        android:id="@+id/settingsDoneButton"
+        android:layout_width="260dp"
+        android:layout_height="72dp"
+        android:layout_marginTop="44dp"
+        android:text="완료"
+        android:textAllCaps="false"
+        android:textSize="28sp" />
+</LinearLayout>

@@ -1,0 +1,13 @@
+.gradle/
+build/
+**/build/
+local.properties
+*.jks
+*.keystore
+keystore.properties
+.gilbeot/
+.idea/
+*.iml
+
+# 시연 영상 원본 녹화(용량 큼). 편집본은 demo/에 커밋한다.
+captures/video/*.mp4

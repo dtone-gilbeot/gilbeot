@@ -1,0 +1,681 @@
+--------- beginning of main
+11-09 07:18:25.888 I/GILBEOT (16535): NaviHelper initialized
+11-09 07:18:26.752 I/GILBEOT (16535): vehicle listeners registered
+11-09 07:18:26.753 I/GILBEOT (16535): tts initialize mode=ON_DEVICE
+11-09 07:18:26.791 I/GILBEOT (16535): requestRoute option=RECOMMENDED name=서울시청 lat=37.5665 lng=126.978
+11-09 07:18:26.806 I/GILBEOT (16535): speed callback registered=true
+11-09 07:18:26.808 I/GILBEOT (16535): location enabledProviders=[passive, fused, gps] selected=[gps, fused]
+11-09 07:18:26.812 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:26.817 I/GILBEOT (16535): location listener registered provider=gps
+11-09 07:18:26.819 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:26.825 I/GILBEOT (16535): location listener registered provider=fused
+11-09 07:18:26.846 I/GILBEOT (16535): tts initialize success mode=ON_DEVICE
+11-09 07:18:26.847 I/GILBEOT (16535): tts speak mode=ON_DEVICE text=길벗이 준비됐습니다.
+11-09 07:18:26.848 I/GILBEOT (16535): promise break drivenScaledMin=0
+11-09 07:18:26.858 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:26.859 I/GILBEOT (16535): speed m/s=0.0 km/h=0.0
+11-09 07:18:26.878 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:27.077 I/GILBEOT (16535): onNavigationStatus status=FREE_DRIVE
+11-09 07:18:27.097 I/GILBEOT (16535): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=0, distance=0, remainDestinationChargingValue=0, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=0, chargerCount=0, chargingPlan=null), waypoints=[])
+11-09 07:18:27.102 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:27.217 I/GILBEOT (16535): onTBTInfo size=0
+11-09 07:18:27.217 I/GILBEOT (16535): TBT cumulative=0.0 routeDistance=null difference=null
+11-09 07:18:27.236 I/GILBEOT (16535): lowBeam state=OFF
+11-09 07:18:27.236 I/GILBEOT (16535): promise headlamp state=OFF notices=0 requestComfortable=false
+11-09 07:18:27.249 I/GILBEOT (16535): lowBeam state=OFF
+11-09 07:18:27.253 I/GILBEOT (16535): promise headlamp state=OFF notices=0 requestComfortable=false
+11-09 07:18:27.255 I/GILBEOT (16535): turnSignal state=OFF
+11-09 07:18:27.262 I/GILBEOT (16535): turnSignal state=OFF
+11-09 07:18:27.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:27.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:28.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:28.011 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:28.296 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:28.297 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:29.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:29.027 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:29.308 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:29.310 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:30.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:30.036 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:30.298 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:30.299 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:31.012 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:31.044 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:31.299 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:31.299 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:32.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:32.057 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:32.299 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:32.299 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:33.019 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:33.070 I/GILBEOT (16535): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 07:18:33.302 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:33.305 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:33.669 I/GILBEOT (16535): onRouteStarted duration=1440 distance=22000
+11-09 07:18:33.670 I/GILBEOT (16535): promise sunset now=07:18 arrival=07:42 sunset=17:26 before=true requestComfortable=false
+11-09 07:18:33.670 I/GILBEOT (16535): notice priority=100 key=route-1-promise-sunset text=해 지는 시각은 오후 5시 26분입니다. 지금 가면 해 지기 전, 오전 7시 42분에 도착합니다.
+11-09 07:18:33.672 I/GILBEOT (16535): onNavigationStatus status=ROUTE_DRIVE
+11-09 07:18:33.676 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:33.806 I/GILBEOT (16535): speed m/s=13.888889 km/h=50.0
+11-09 07:18:34.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:34.080 I/GILBEOT (16535): remaining=- next=- target=- traveled=5 speedKph=50
+11-09 07:18:34.230 I/GILBEOT (16535): onTBTInfo size=13
+11-09 07:18:34.230 I/GILBEOT (16535): TBT[0] type=TURN_RIGHT distance=700.0 description=대왕판교IC 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[1] type=TURN_RIGHT distance=50.0 description=양재 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[2] type=TURN_ENTER_IC_C distance=110.0 description=대왕판교IC 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[3] type=TURN_TOLL distance=40.0 description=대왕판교톨게이트
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[4] type=TURN_AVOID_OVER_L distance=13000.0 description=한남대교,올림픽대로(종합운동장) 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[5] type=TURN_ENTER_OVER_L distance=2100.0 description=남산1호터널 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[6] type=TURN_ENTER_OVER_L distance=850.0 description=남산1호터널 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[7] type=TURN_TOLL distance=2300.0 description=남산1호터널톨게이트
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[8] type=TURN_ENTER_OVER_L distance=280.0 description=남대문시장 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[9] type=TURN_LEFT distance=990.0 description=을지로1가 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[10] type=TURN_RIGHT distance=720.0 description=청계광장 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[11] type=TURN_LEFT distance=90.0 description=광화문 방면
+11-09 07:18:34.231 I/GILBEOT (16535): TBT[12] type=TURN_ARRIVE distance=120.0 description=도착
+11-09 07:18:34.231 I/GILBEOT (16535): TBT cumulative=21350.0 routeDistance=22000.0 difference=650.0
+11-09 07:18:34.323 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:34.323 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:34.618 I/GILBEOT (16535): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=1440, distance=22000, remainDestinationChargingValue=74426, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=10, chargerCount=0, chargingPlan=null), waypoints=[])
+11-09 07:18:34.848 I/GILBEOT (16535): tts timeout mode=ON_DEVICE after=8000ms
+11-09 07:18:34.851 I/GILBEOT (16535): tts fallback reason=timeout next=HYBRID
+11-09 07:18:34.852 I/GILBEOT (16535): tts initialize mode=HYBRID
+11-09 07:18:34.870 I/GILBEOT (16535): tts initialize success mode=HYBRID
+11-09 07:18:34.872 I/GILBEOT (16535): tts speak mode=HYBRID text=길벗이 준비됐습니다.
+11-09 07:18:34.889 I/GILBEOT (16535): promise break drivenScaledMin=1
+11-09 07:18:35.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:35.092 I/GILBEOT (16535): remaining=688 next=TURN_RIGHT target=TURN_ENTER_IC_C:848 traveled=12 speedKph=50
+11-09 07:18:35.322 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:35.322 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:35.900 I/GILBEOT (16535): promise break drivenScaledMin=2
+11-09 07:18:36.012 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:36.103 I/GILBEOT (16535): remaining=674 next=TURN_RIGHT target=TURN_ENTER_IC_C:834 traveled=26 speedKph=50
+11-09 07:18:36.322 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:36.323 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:36.921 I/GILBEOT (16535): promise break drivenScaledMin=3
+11-09 07:18:37.028 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:37.126 I/GILBEOT (16535): remaining=660 next=TURN_RIGHT target=TURN_ENTER_IC_C:820 traveled=40 speedKph=50
+11-09 07:18:37.310 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:37.311 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:37.932 I/GILBEOT (16535): promise break drivenScaledMin=4
+11-09 07:18:38.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:38.138 I/GILBEOT (16535): remaining=646 next=TURN_RIGHT target=TURN_ENTER_IC_C:806 traveled=54 speedKph=50
+11-09 07:18:38.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:38.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:38.944 I/GILBEOT (16535): promise break drivenScaledMin=5
+11-09 07:18:39.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:39.150 I/GILBEOT (16535): remaining=632 next=TURN_RIGHT target=TURN_ENTER_IC_C:792 traveled=68 speedKph=50
+11-09 07:18:39.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:39.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:39.959 I/GILBEOT (16535): promise break drivenScaledMin=6
+11-09 07:18:40.011 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:40.162 I/GILBEOT (16535): remaining=618 next=TURN_RIGHT target=TURN_ENTER_IC_C:778 traveled=82 speedKph=50
+11-09 07:18:40.310 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:40.310 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:40.969 I/GILBEOT (16535): promise break drivenScaledMin=7
+11-09 07:18:41.012 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:41.173 I/GILBEOT (16535): remaining=604 next=TURN_RIGHT target=TURN_ENTER_IC_C:764 traveled=96 speedKph=50
+11-09 07:18:41.307 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:41.308 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:41.981 I/GILBEOT (16535): promise break drivenScaledMin=8
+11-09 07:18:42.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:42.185 I/GILBEOT (16535): remaining=590 next=TURN_RIGHT target=TURN_ENTER_IC_C:750 traveled=110 speedKph=50
+11-09 07:18:42.318 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:42.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:42.874 I/GILBEOT (16535): tts timeout mode=HYBRID after=8000ms
+11-09 07:18:42.876 I/GILBEOT (16535): tts fallback reason=timeout next=SUBTITLE_ONLY
+11-09 07:18:42.879 I/GILBEOT (16535): tts subtitle-only text=해 지는 시각은 오후 5시 26분입니다. 지금 가면 해 지기 전, 오전 7시 42분에 도착합니다.
+11-09 07:18:42.991 I/GILBEOT (16535): promise break drivenScaledMin=9
+11-09 07:18:43.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:43.197 I/GILBEOT (16535): remaining=576 next=TURN_RIGHT target=TURN_ENTER_IC_C:736 traveled=124 speedKph=50
+11-09 07:18:43.308 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:43.309 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:43.821 I/GILBEOT (16535): promise break drivenScaledMin=10
+11-09 07:18:44.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:44.228 I/GILBEOT (16535): remaining=561 next=TURN_RIGHT target=TURN_ENTER_IC_C:721 traveled=139 speedKph=50
+11-09 07:18:44.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:44.325 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:44.832 I/GILBEOT (16535): promise break drivenScaledMin=11
+11-09 07:18:45.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:45.239 I/GILBEOT (16535): remaining=547 next=TURN_RIGHT target=TURN_ENTER_IC_C:707 traveled=153 speedKph=50
+11-09 07:18:45.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:45.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:45.845 I/GILBEOT (16535): promise break drivenScaledMin=12
+11-09 07:18:46.006 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:46.257 I/GILBEOT (16535): remaining=533 next=TURN_RIGHT target=TURN_ENTER_IC_C:693 traveled=167 speedKph=50
+11-09 07:18:46.310 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:46.311 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:46.864 I/GILBEOT (16535): promise break drivenScaledMin=13
+11-09 07:18:47.015 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:47.272 I/GILBEOT (16535): remaining=519 next=TURN_RIGHT target=TURN_ENTER_IC_C:679 traveled=181 speedKph=50
+11-09 07:18:47.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:47.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:47.879 I/GILBEOT (16535): promise break drivenScaledMin=14
+11-09 07:18:48.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:48.286 I/GILBEOT (16535): remaining=505 next=TURN_RIGHT target=TURN_ENTER_IC_C:665 traveled=195 speedKph=50
+11-09 07:18:48.322 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:48.322 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:48.892 I/GILBEOT (16535): promise break drivenScaledMin=15
+11-09 07:18:49.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:49.298 I/GILBEOT (16535): remaining=491 next=TURN_RIGHT target=TURN_ENTER_IC_C:651 traveled=209 speedKph=50
+11-09 07:18:49.311 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:49.315 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:49.904 I/GILBEOT (16535): promise break drivenScaledMin=16
+11-09 07:18:50.022 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:50.320 I/GILBEOT (16535): remaining=477 next=TURN_RIGHT target=TURN_ENTER_IC_C:637 traveled=223 speedKph=50
+11-09 07:18:50.321 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:50.321 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:50.929 I/GILBEOT (16535): promise break drivenScaledMin=17
+11-09 07:18:51.006 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:51.312 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:51.313 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:51.334 I/GILBEOT (16535): remaining=462 next=TURN_RIGHT target=TURN_ENTER_IC_C:622 traveled=238 speedKph=50
+11-09 07:18:51.939 I/GILBEOT (16535): promise break drivenScaledMin=18
+11-09 07:18:52.006 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:52.314 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:52.316 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:52.345 I/GILBEOT (16535): remaining=448 next=TURN_RIGHT target=TURN_ENTER_IC_C:608 traveled=252 speedKph=50
+11-09 07:18:52.950 I/GILBEOT (16535): promise break drivenScaledMin=19
+11-09 07:18:53.002 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:53.315 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:53.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:53.356 I/GILBEOT (16535): remaining=434 next=TURN_RIGHT target=TURN_ENTER_IC_C:594 traveled=266 speedKph=50
+11-09 07:18:53.961 I/GILBEOT (16535): promise break drivenScaledMin=20
+11-09 07:18:54.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:54.313 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:54.316 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:54.365 I/GILBEOT (16535): remaining=420 next=TURN_RIGHT target=TURN_ENTER_IC_C:580 traveled=280 speedKph=50
+11-09 07:18:54.971 I/GILBEOT (16535): promise break drivenScaledMin=21
+11-09 07:18:55.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:55.321 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:55.321 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:55.376 I/GILBEOT (16535): remaining=406 next=TURN_RIGHT target=TURN_ENTER_IC_C:566 traveled=294 speedKph=50
+11-09 07:18:55.978 I/GILBEOT (16535): promise break drivenScaledMin=22
+11-09 07:18:56.021 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:56.318 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:56.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:56.383 I/GILBEOT (16535): remaining=392 next=TURN_RIGHT target=TURN_ENTER_IC_C:552 traveled=308 speedKph=50
+11-09 07:18:56.988 I/GILBEOT (16535): promise break drivenScaledMin=23
+11-09 07:18:57.023 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:57.316 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:57.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:57.396 I/GILBEOT (16535): remaining=378 next=TURN_RIGHT target=TURN_ENTER_IC_C:538 traveled=322 speedKph=50
+11-09 07:18:57.999 I/GILBEOT (16535): promise break drivenScaledMin=24
+11-09 07:18:58.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:58.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:58.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:58.405 I/GILBEOT (16535): remaining=364 next=TURN_RIGHT target=TURN_ENTER_IC_C:524 traveled=336 speedKph=50
+11-09 07:18:58.820 I/GILBEOT (16535): promise break drivenScaledMin=25
+11-09 07:18:59.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:18:59.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:59.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:18:59.427 I/GILBEOT (16535): remaining=350 next=TURN_RIGHT target=TURN_ENTER_IC_C:510 traveled=350 speedKph=50
+11-09 07:18:59.829 I/GILBEOT (16535): promise break drivenScaledMin=26
+11-09 07:19:00.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:00.234 I/GILBEOT (16535): notice priority=200 key=route-1-turn-2-500 text=대왕판교IC 방면으로 곧 나들목으로 진입합니다. 미리 차로를 확인하세요.
+11-09 07:19:00.237 I/GILBEOT (16535): tts subtitle-only text=대왕판교IC 방면으로 곧 나들목으로 진입합니다. 미리 차로를 확인하세요.
+11-09 07:19:00.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:00.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:00.440 I/GILBEOT (16535): remaining=336 next=TURN_RIGHT target=TURN_ENTER_IC_C:496 traveled=364 speedKph=50
+11-09 07:19:00.844 I/GILBEOT (16535): promise break drivenScaledMin=27
+11-09 07:19:01.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:01.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:01.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:01.453 I/GILBEOT (16535): remaining=322 next=TURN_RIGHT target=TURN_ENTER_IC_C:482 traveled=378 speedKph=50
+11-09 07:19:01.857 I/GILBEOT (16535): promise break drivenScaledMin=28
+11-09 07:19:02.003 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:02.318 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:02.319 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:02.466 I/GILBEOT (16535): remaining=308 next=TURN_RIGHT target=TURN_ENTER_IC_C:468 traveled=392 speedKph=50
+11-09 07:19:02.870 I/GILBEOT (16535): promise break drivenScaledMin=29
+11-09 07:19:03.022 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:03.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:03.320 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:03.478 I/GILBEOT (16535): remaining=294 next=TURN_RIGHT target=TURN_ENTER_IC_C:454 traveled=406 speedKph=50
+11-09 07:19:03.881 I/GILBEOT (16535): promise break drivenScaledMin=30
+11-09 07:19:04.016 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:04.321 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:04.326 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:04.496 I/GILBEOT (16535): remaining=280 next=TURN_RIGHT target=TURN_ENTER_IC_C:440 traveled=420 speedKph=50
+11-09 07:19:04.899 I/GILBEOT (16535): promise break drivenScaledMin=31
+11-09 07:19:05.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:05.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:05.329 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:05.508 I/GILBEOT (16535): remaining=266 next=TURN_RIGHT target=TURN_ENTER_IC_C:426 traveled=434 speedKph=50
+11-09 07:19:05.911 I/GILBEOT (16535): promise break drivenScaledMin=32
+11-09 07:19:06.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:06.337 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:06.338 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:06.522 I/GILBEOT (16535): remaining=252 next=TURN_RIGHT target=TURN_ENTER_IC_C:412 traveled=448 speedKph=50
+11-09 07:19:06.928 I/GILBEOT (16535): promise break drivenScaledMin=33
+11-09 07:19:07.015 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:07.323 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:07.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:07.538 I/GILBEOT (16535): remaining=237 next=TURN_RIGHT target=TURN_ENTER_IC_C:397 traveled=463 speedKph=50
+11-09 07:19:07.940 I/GILBEOT (16535): promise break drivenScaledMin=34
+11-09 07:19:08.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:08.329 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:08.329 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:08.546 I/GILBEOT (16535): remaining=223 next=TURN_RIGHT target=TURN_ENTER_IC_C:383 traveled=477 speedKph=50
+11-09 07:19:08.948 I/GILBEOT (16535): promise break drivenScaledMin=35
+11-09 07:19:09.025 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:09.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:09.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:09.555 I/GILBEOT (16535): remaining=209 next=TURN_RIGHT target=TURN_ENTER_IC_C:369 traveled=491 speedKph=50
+11-09 07:19:09.960 I/GILBEOT (16535): promise break drivenScaledMin=36
+11-09 07:19:10.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:10.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:10.326 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:10.568 I/GILBEOT (16535): remaining=195 next=TURN_RIGHT target=TURN_ENTER_IC_C:355 traveled=505 speedKph=50
+11-09 07:19:10.972 I/GILBEOT (16535): promise break drivenScaledMin=37
+11-09 07:19:11.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:11.324 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:11.325 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:11.579 I/GILBEOT (16535): remaining=181 next=TURN_RIGHT target=TURN_ENTER_IC_C:341 traveled=519 speedKph=50
+11-09 07:19:11.984 I/GILBEOT (16535): promise break drivenScaledMin=38
+11-09 07:19:12.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:12.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:12.331 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:12.595 I/GILBEOT (16535): remaining=167 next=TURN_RIGHT target=TURN_ENTER_IC_C:327 traveled=533 speedKph=50
+11-09 07:19:12.999 I/GILBEOT (16535): promise break drivenScaledMin=39
+11-09 07:19:13.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:13.325 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:13.326 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:13.622 I/GILBEOT (16535): remaining=153 next=TURN_RIGHT target=TURN_ENTER_IC_C:313 traveled=547 speedKph=50
+11-09 07:19:13.822 I/GILBEOT (16535): promise break drivenScaledMin=40
+11-09 07:19:14.025 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:14.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:14.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:14.630 I/GILBEOT (16535): notice priority=300 key=route-1-turn-2-300 text=대왕판교IC 방면으로 이제 나들목으로 진입합니다. 안내 차로를 따라가세요.
+11-09 07:19:14.631 I/GILBEOT (16535): tts subtitle-only text=대왕판교IC 방면으로 이제 나들목으로 진입합니다. 안내 차로를 따라가세요.
+11-09 07:19:14.632 I/GILBEOT (16535): remaining=139 next=TURN_RIGHT target=TURN_ENTER_IC_C:299 traveled=561 speedKph=50
+11-09 07:19:14.834 I/GILBEOT (16535): promise break drivenScaledMin=41
+11-09 07:19:15.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:15.326 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:15.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:15.646 I/GILBEOT (16535): remaining=125 next=TURN_RIGHT target=TURN_ENTER_IC_C:285 traveled=575 speedKph=50
+11-09 07:19:15.846 I/GILBEOT (16535): promise break drivenScaledMin=42
+11-09 07:19:16.004 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:16.327 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:16.329 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:16.658 I/GILBEOT (16535): remaining=111 next=TURN_RIGHT target=TURN_ENTER_IC_C:271 traveled=589 speedKph=50
+11-09 07:19:16.859 I/GILBEOT (16535): promise break drivenScaledMin=43
+11-09 07:19:17.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:17.332 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:17.340 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:17.673 I/GILBEOT (16535): remaining=97 next=TURN_RIGHT target=TURN_ENTER_IC_C:257 traveled=603 speedKph=50
+11-09 07:19:17.874 I/GILBEOT (16535): promise break drivenScaledMin=44
+11-09 07:19:18.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:18.327 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:18.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:18.686 I/GILBEOT (16535): remaining=83 next=TURN_RIGHT target=TURN_ENTER_IC_C:243 traveled=617 speedKph=50
+11-09 07:19:18.888 I/GILBEOT (16535): promise break drivenScaledMin=45
+11-09 07:19:19.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:19.331 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:19.335 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:19.699 I/GILBEOT (16535): remaining=69 next=TURN_RIGHT target=TURN_ENTER_IC_C:229 traveled=631 speedKph=50
+11-09 07:19:19.901 I/GILBEOT (16535): promise break drivenScaledMin=46
+11-09 07:19:20.012 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:20.328 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:20.329 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:20.721 I/GILBEOT (16535): remaining=54 next=TURN_RIGHT target=TURN_ENTER_IC_C:214 traveled=646 speedKph=50
+11-09 07:19:20.921 I/GILBEOT (16535): promise break drivenScaledMin=47
+11-09 07:19:21.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:21.339 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:21.340 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:21.728 I/GILBEOT (16535): remaining=40 next=TURN_RIGHT target=TURN_ENTER_IC_C:200 traveled=660 speedKph=50
+11-09 07:19:21.929 I/GILBEOT (16535): promise break drivenScaledMin=48
+11-09 07:19:22.006 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:22.330 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:22.332 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:22.741 I/GILBEOT (16535): remaining=26 next=TURN_RIGHT target=TURN_ENTER_IC_C:186 traveled=674 speedKph=50
+11-09 07:19:22.942 I/GILBEOT (16535): promise break drivenScaledMin=49
+11-09 07:19:23.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:23.332 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:23.336 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:23.753 I/GILBEOT (16535): remaining=12 next=TURN_RIGHT target=TURN_ENTER_IC_C:172 traveled=688 speedKph=50
+11-09 07:19:23.955 I/GILBEOT (16535): promise break drivenScaledMin=50
+11-09 07:19:24.021 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:24.333 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:24.333 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:24.764 I/GILBEOT (16535): remaining=48 next=TURN_RIGHT target=TURN_ENTER_IC_C:158 traveled=702 speedKph=50
+11-09 07:19:24.964 I/GILBEOT (16535): promise break drivenScaledMin=51
+11-09 07:19:25.012 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:25.333 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:25.338 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:25.773 I/GILBEOT (16535): remaining=34 next=TURN_RIGHT target=TURN_ENTER_IC_C:144 traveled=716 speedKph=50
+11-09 07:19:25.977 I/GILBEOT (16535): promise break drivenScaledMin=52
+11-09 07:19:26.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:26.333 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:26.334 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:26.787 I/GILBEOT (16535): remaining=20 next=TURN_RIGHT target=TURN_ENTER_IC_C:130 traveled=730 speedKph=50
+11-09 07:19:26.988 I/GILBEOT (16535): promise break drivenScaledMin=53
+11-09 07:19:27.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:27.334 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:27.335 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:27.797 I/GILBEOT (16535): remaining=6 next=TURN_RIGHT target=TURN_ENTER_IC_C:116 traveled=744 speedKph=50
+11-09 07:19:27.999 I/GILBEOT (16535): promise break drivenScaledMin=54
+11-09 07:19:28.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:28.334 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:28.335 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:28.824 I/GILBEOT (16535): promise break drivenScaledMin=55
+11-09 07:19:28.825 I/GILBEOT (16535): remaining=102 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:102 traveled=758 speedKph=50
+11-09 07:19:29.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:29.337 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:29.337 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:29.840 I/GILBEOT (16535): promise break drivenScaledMin=56
+11-09 07:19:29.842 I/GILBEOT (16535): remaining=88 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:88 traveled=772 speedKph=50
+11-09 07:19:30.020 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:30.338 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:30.339 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:30.851 I/GILBEOT (16535): promise break drivenScaledMin=57
+11-09 07:19:30.853 I/GILBEOT (16535): remaining=74 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:74 traveled=786 speedKph=50
+11-09 07:19:31.018 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:31.342 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:31.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:31.863 I/GILBEOT (16535): promise break drivenScaledMin=58
+11-09 07:19:31.865 I/GILBEOT (16535): remaining=60 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:60 traveled=800 speedKph=50
+11-09 07:19:32.011 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:32.342 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:32.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:32.875 I/GILBEOT (16535): promise break drivenScaledMin=59
+11-09 07:19:32.877 I/GILBEOT (16535): remaining=46 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:46 traveled=814 speedKph=50
+11-09 07:19:33.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:33.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:33.350 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:33.886 I/GILBEOT (16535): promise break drivenScaledMin=60
+11-09 07:19:33.888 I/GILBEOT (16535): remaining=31 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:31 traveled=829 speedKph=50
+11-09 07:19:34.019 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:34.341 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:34.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:34.897 I/GILBEOT (16535): promise break drivenScaledMin=61
+11-09 07:19:34.899 I/GILBEOT (16535): remaining=17 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:17 traveled=843 speedKph=50
+11-09 07:19:35.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:35.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:35.345 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:35.921 I/GILBEOT (16535): promise break drivenScaledMin=62
+11-09 07:19:35.923 I/GILBEOT (16535): remaining=3 next=TURN_ENTER_IC_C target=TURN_ENTER_IC_C:3 traveled=857 speedKph=50
+11-09 07:19:36.003 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:36.341 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:36.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:36.932 I/GILBEOT (16535): promise break drivenScaledMin=63
+11-09 07:19:36.937 I/GILBEOT (16535): remaining=29 next=TURN_TOLL target=TURN_LEFT:19549 traveled=871 speedKph=50
+11-09 07:19:37.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:37.340 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:37.354 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:37.949 I/GILBEOT (16535): promise break drivenScaledMin=64
+11-09 07:19:37.954 I/GILBEOT (16535): remaining=15 next=TURN_TOLL target=TURN_LEFT:19535 traveled=885 speedKph=50
+11-09 07:19:38.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:38.345 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:38.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:38.965 I/GILBEOT (16535): promise break drivenScaledMin=65
+11-09 07:19:38.966 I/GILBEOT (16535): remaining=1 next=TURN_TOLL target=TURN_LEFT:19521 traveled=899 speedKph=50
+11-09 07:19:39.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:39.341 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:39.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:39.977 I/GILBEOT (16535): promise break drivenScaledMin=66
+11-09 07:19:39.979 I/GILBEOT (16535): remaining=12987 next=TURN_AVOID_OVER_L target=TURN_LEFT:19507 traveled=913 speedKph=50
+11-09 07:19:40.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:40.342 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:40.344 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:40.991 I/GILBEOT (16535): promise break drivenScaledMin=67
+11-09 07:19:40.993 I/GILBEOT (16535): remaining=12973 next=TURN_AVOID_OVER_L target=TURN_LEFT:19493 traveled=927 speedKph=50
+11-09 07:19:41.019 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:41.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:41.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:42.000 I/GILBEOT (16535): promise break drivenScaledMin=68
+11-09 07:19:42.002 I/GILBEOT (16535): remaining=12959 next=TURN_AVOID_OVER_L target=TURN_LEFT:19479 traveled=941 speedKph=50
+11-09 07:19:42.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:42.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:42.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:42.820 I/GILBEOT (16535): promise break drivenScaledMin=69
+11-09 07:19:43.003 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:43.025 I/GILBEOT (16535): remaining=12945 next=TURN_AVOID_OVER_L target=TURN_LEFT:19465 traveled=955 speedKph=50
+11-09 07:19:43.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:43.345 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:43.832 I/GILBEOT (16535): promise break drivenScaledMin=70
+11-09 07:19:44.002 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:44.040 I/GILBEOT (16535): remaining=12931 next=TURN_AVOID_OVER_L target=TURN_LEFT:19451 traveled=969 speedKph=50
+11-09 07:19:44.343 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:44.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:44.848 I/GILBEOT (16535): promise break drivenScaledMin=71
+11-09 07:19:45.021 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:45.051 I/GILBEOT (16535): remaining=12916 next=TURN_AVOID_OVER_L target=TURN_LEFT:19436 traveled=984 speedKph=50
+11-09 07:19:45.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:45.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:45.857 I/GILBEOT (16535): promise break drivenScaledMin=72
+11-09 07:19:46.022 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:46.062 I/GILBEOT (16535): remaining=12902 next=TURN_AVOID_OVER_L target=TURN_LEFT:19422 traveled=998 speedKph=50
+11-09 07:19:46.344 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:46.346 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:46.868 I/GILBEOT (16535): promise break drivenScaledMin=73
+11-09 07:19:47.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:47.072 I/GILBEOT (16535): remaining=12888 next=TURN_AVOID_OVER_L target=TURN_LEFT:19408 traveled=1012 speedKph=50
+11-09 07:19:47.345 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:47.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:47.881 I/GILBEOT (16535): promise break drivenScaledMin=74
+11-09 07:19:48.028 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:48.085 I/GILBEOT (16535): remaining=12874 next=TURN_AVOID_OVER_L target=TURN_LEFT:19394 traveled=1026 speedKph=50
+11-09 07:19:48.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:48.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:48.896 I/GILBEOT (16535): promise break drivenScaledMin=75
+11-09 07:19:49.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:49.099 I/GILBEOT (16535): remaining=12860 next=TURN_AVOID_OVER_L target=TURN_LEFT:19380 traveled=1040 speedKph=50
+11-09 07:19:49.345 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:49.348 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:49.910 I/GILBEOT (16535): promise break drivenScaledMin=76
+11-09 07:19:50.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:50.119 I/GILBEOT (16535): remaining=12846 next=TURN_AVOID_OVER_L target=TURN_LEFT:19366 traveled=1054 speedKph=50
+11-09 07:19:50.347 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:50.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:50.928 I/GILBEOT (16535): promise break drivenScaledMin=77
+11-09 07:19:51.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:51.132 I/GILBEOT (16535): remaining=12832 next=TURN_AVOID_OVER_L target=TURN_LEFT:19352 traveled=1068 speedKph=50
+11-09 07:19:51.348 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:51.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:51.938 I/GILBEOT (16535): promise break drivenScaledMin=78
+11-09 07:19:52.026 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:52.144 I/GILBEOT (16535): remaining=12818 next=TURN_AVOID_OVER_L target=TURN_LEFT:19338 traveled=1082 speedKph=50
+11-09 07:19:52.353 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:52.353 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:52.950 I/GILBEOT (16535): promise break drivenScaledMin=79
+11-09 07:19:53.019 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:53.153 I/GILBEOT (16535): remaining=12804 next=TURN_AVOID_OVER_L target=TURN_LEFT:19324 traveled=1096 speedKph=50
+11-09 07:19:53.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:53.350 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:53.958 I/GILBEOT (16535): promise break drivenScaledMin=80
+11-09 07:19:54.020 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:54.162 I/GILBEOT (16535): remaining=12790 next=TURN_AVOID_OVER_L target=TURN_LEFT:19310 traveled=1110 speedKph=50
+11-09 07:19:54.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:54.349 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:54.968 I/GILBEOT (16535): promise break drivenScaledMin=81
+11-09 07:19:55.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:55.171 I/GILBEOT (16535): remaining=12776 next=TURN_AVOID_OVER_L target=TURN_LEFT:19296 traveled=1124 speedKph=50
+11-09 07:19:55.354 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:55.354 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:55.980 I/GILBEOT (16535): promise break drivenScaledMin=82
+11-09 07:19:56.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:56.186 I/GILBEOT (16535): remaining=12762 next=TURN_AVOID_OVER_L target=TURN_LEFT:19282 traveled=1138 speedKph=50
+11-09 07:19:56.351 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:56.354 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:56.992 I/GILBEOT (16535): promise break drivenScaledMin=83
+11-09 07:19:57.023 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:57.195 I/GILBEOT (16535): remaining=12748 next=TURN_AVOID_OVER_L target=TURN_LEFT:19268 traveled=1152 speedKph=50
+11-09 07:19:57.352 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:57.352 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:58.002 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:58.003 I/GILBEOT (16535): promise break drivenScaledMin=84
+11-09 07:19:58.207 I/GILBEOT (16535): remaining=12734 next=TURN_AVOID_OVER_L target=TURN_LEFT:19254 traveled=1166 speedKph=50
+11-09 07:19:58.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:58.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:58.824 I/GILBEOT (16535): promise break drivenScaledMin=85
+11-09 07:19:59.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:19:59.229 I/GILBEOT (16535): remaining=12720 next=TURN_AVOID_OVER_L target=TURN_LEFT:19240 traveled=1180 speedKph=50
+11-09 07:19:59.357 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:59.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:19:59.836 I/GILBEOT (16535): promise break drivenScaledMin=86
+11-09 07:20:00.009 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:00.243 I/GILBEOT (16535): remaining=12705 next=TURN_AVOID_OVER_L target=TURN_LEFT:19225 traveled=1195 speedKph=50
+11-09 07:20:00.360 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:00.361 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:00.845 I/GILBEOT (16535): promise break drivenScaledMin=87
+11-09 07:20:01.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:01.252 I/GILBEOT (16535): remaining=12691 next=TURN_AVOID_OVER_L target=TURN_LEFT:19211 traveled=1209 speedKph=50
+11-09 07:20:01.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:01.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:01.860 I/GILBEOT (16535): promise break drivenScaledMin=88
+11-09 07:20:02.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:02.266 I/GILBEOT (16535): remaining=12677 next=TURN_AVOID_OVER_L target=TURN_LEFT:19197 traveled=1223 speedKph=50
+11-09 07:20:02.355 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:02.357 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:02.871 I/GILBEOT (16535): promise break drivenScaledMin=89
+11-09 07:20:03.016 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:03.277 I/GILBEOT (16535): remaining=12663 next=TURN_AVOID_OVER_L target=TURN_LEFT:19183 traveled=1237 speedKph=50
+11-09 07:20:03.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:03.359 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:03.882 I/GILBEOT (16535): promise break drivenScaledMin=90
+11-09 07:20:04.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:04.289 I/GILBEOT (16535): remaining=12649 next=TURN_AVOID_OVER_L target=TURN_LEFT:19169 traveled=1251 speedKph=50
+11-09 07:20:04.356 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:04.357 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:04.896 I/GILBEOT (16535): promise break drivenScaledMin=91
+11-09 07:20:05.010 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:05.302 I/GILBEOT (16535): remaining=12635 next=TURN_AVOID_OVER_L target=TURN_LEFT:19155 traveled=1265 speedKph=50
+11-09 07:20:05.356 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:05.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:05.907 I/GILBEOT (16535): promise break drivenScaledMin=92
+11-09 07:20:06.026 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:06.321 I/GILBEOT (16535): remaining=12621 next=TURN_AVOID_OVER_L target=TURN_LEFT:19141 traveled=1279 speedKph=50
+11-09 07:20:06.357 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:06.357 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:06.927 I/GILBEOT (16535): promise break drivenScaledMin=93
+11-09 07:20:07.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:07.332 I/GILBEOT (16535): remaining=12607 next=TURN_AVOID_OVER_L target=TURN_LEFT:19127 traveled=1293 speedKph=50
+11-09 07:20:07.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:07.359 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:07.938 I/GILBEOT (16535): promise break drivenScaledMin=94
+11-09 07:20:08.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:08.346 I/GILBEOT (16535): remaining=12593 next=TURN_AVOID_OVER_L target=TURN_LEFT:19113 traveled=1307 speedKph=50
+11-09 07:20:08.359 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:08.359 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:08.953 I/GILBEOT (16535): promise break drivenScaledMin=95
+11-09 07:20:09.023 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:09.361 I/GILBEOT (16535): remaining=12579 next=TURN_AVOID_OVER_L target=TURN_LEFT:19099 traveled=1321 speedKph=50
+11-09 07:20:09.362 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:09.362 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:09.967 I/GILBEOT (16535): promise break drivenScaledMin=96
+11-09 07:20:10.020 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:10.358 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:10.359 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:10.373 I/GILBEOT (16535): remaining=12565 next=TURN_AVOID_OVER_L target=TURN_LEFT:19085 traveled=1335 speedKph=50
+11-09 07:20:10.984 I/GILBEOT (16535): promise break drivenScaledMin=97
+11-09 07:20:11.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:11.361 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:11.361 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:11.391 I/GILBEOT (16535): remaining=12551 next=TURN_AVOID_OVER_L target=TURN_LEFT:19071 traveled=1349 speedKph=50
+11-09 07:20:11.994 I/GILBEOT (16535): promise break drivenScaledMin=98
+11-09 07:20:12.023 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:12.362 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:12.362 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:12.399 I/GILBEOT (16535): remaining=12537 next=TURN_AVOID_OVER_L target=TURN_LEFT:19057 traveled=1363 speedKph=50
+11-09 07:20:13.020 I/GILBEOT (16535): promise break drivenScaledMin=99
+11-09 07:20:13.028 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:13.363 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:13.365 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:13.424 I/GILBEOT (16535): remaining=12522 next=TURN_AVOID_OVER_L target=TURN_LEFT:19042 traveled=1378 speedKph=50
+11-09 07:20:13.826 I/GILBEOT (16535): promise break drivenScaledMin=100
+11-09 07:20:14.001 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:14.363 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:14.364 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:14.434 I/GILBEOT (16535): remaining=12508 next=TURN_AVOID_OVER_L target=TURN_LEFT:19028 traveled=1392 speedKph=50
+11-09 07:20:14.838 I/GILBEOT (16535): promise break drivenScaledMin=101
+11-09 07:20:15.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:15.364 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:15.364 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:15.446 I/GILBEOT (16535): remaining=12494 next=TURN_AVOID_OVER_L target=TURN_LEFT:19014 traveled=1406 speedKph=50
+11-09 07:20:15.848 I/GILBEOT (16535): promise break drivenScaledMin=102
+11-09 07:20:16.007 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:16.363 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:16.365 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:16.454 I/GILBEOT (16535): remaining=12480 next=TURN_AVOID_OVER_L target=TURN_LEFT:19000 traveled=1420 speedKph=50
+11-09 07:20:16.858 I/GILBEOT (16535): promise break drivenScaledMin=103
+11-09 07:20:17.028 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:17.366 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:17.366 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:17.465 I/GILBEOT (16535): remaining=12466 next=TURN_AVOID_OVER_L target=TURN_LEFT:18986 traveled=1434 speedKph=50
+11-09 07:20:17.869 I/GILBEOT (16535): promise break drivenScaledMin=104
+11-09 07:20:18.023 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:18.367 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:18.370 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:18.480 I/GILBEOT (16535): remaining=12452 next=TURN_AVOID_OVER_L target=TURN_LEFT:18972 traveled=1448 speedKph=50
+11-09 07:20:18.885 I/GILBEOT (16535): promise break drivenScaledMin=105
+11-09 07:20:19.015 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:19.367 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:19.370 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:19.495 I/GILBEOT (16535): remaining=12438 next=TURN_AVOID_OVER_L target=TURN_LEFT:18958 traveled=1462 speedKph=50
+11-09 07:20:19.901 I/GILBEOT (16535): promise break drivenScaledMin=106
+11-09 07:20:20.018 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:20.368 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:20.371 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:20.523 I/GILBEOT (16535): remaining=12424 next=TURN_AVOID_OVER_L target=TURN_LEFT:18944 traveled=1476 speedKph=50
+11-09 07:20:20.927 I/GILBEOT (16535): promise break drivenScaledMin=107
+11-09 07:20:21.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:21.370 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:21.371 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:21.532 I/GILBEOT (16535): remaining=12410 next=TURN_AVOID_OVER_L target=TURN_LEFT:18930 traveled=1490 speedKph=50
+11-09 07:20:21.934 I/GILBEOT (16535): promise break drivenScaledMin=108
+11-09 07:20:22.014 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:22.370 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:22.371 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:22.541 I/GILBEOT (16535): remaining=12396 next=TURN_AVOID_OVER_L target=TURN_LEFT:18916 traveled=1504 speedKph=50
+11-09 07:20:22.945 I/GILBEOT (16535): promise break drivenScaledMin=109
+11-09 07:20:23.013 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:23.371 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:23.375 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:23.551 I/GILBEOT (16535): remaining=12382 next=TURN_AVOID_OVER_L target=TURN_LEFT:18902 traveled=1518 speedKph=50
+11-09 07:20:23.902 I/GILBEOT (16535): notice priority=100 key=promise-break-1 text=곧 두 시간째 운전입니다. 다음 휴게소에서 쉬어 가요.
+11-09 07:20:23.956 I/GILBEOT (16535): promise break drivenScaledMin=110
+11-09 07:20:23.958 I/GILBEOT (16535): tts subtitle-only text=곧 두 시간째 운전입니다. 다음 휴게소에서 쉬어 가요.
+11-09 07:20:24.017 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:24.375 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:24.376 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:24.565 I/GILBEOT (16535): remaining=12368 next=TURN_AVOID_OVER_L target=TURN_LEFT:18888 traveled=1532 speedKph=50
+11-09 07:20:24.968 I/GILBEOT (16535): promise break drivenScaledMin=111
+11-09 07:20:25.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:25.388 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:25.388 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:25.503 I/GILBEOT (16535): speed m/s=0.0 km/h=0.0
+11-09 07:20:25.573 I/GILBEOT (16535): remaining=12355 next=TURN_AVOID_OVER_L target=TURN_LEFT:18875 traveled=1545 speedKph=0
+11-09 07:20:26.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:26.375 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:26.376 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:26.582 I/GILBEOT (16535): remaining=12355 next=TURN_AVOID_OVER_L target=TURN_LEFT:18875 traveled=1545 speedKph=0
+11-09 07:20:27.008 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:27.376 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:27.376 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:27.591 I/GILBEOT (16535): remaining=12355 next=TURN_AVOID_OVER_L target=TURN_LEFT:18875 traveled=1545 speedKph=0
+11-09 07:20:28.025 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:28.377 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:28.378 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:28.601 I/GILBEOT (16535): promise break drivenScaledMin=0
+11-09 07:20:28.602 I/GILBEOT (16535): remaining=12355 next=TURN_AVOID_OVER_L target=TURN_LEFT:18875 traveled=1545 speedKph=0
+11-09 07:20:29.015 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:29.378 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:29.379 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:29.625 I/GILBEOT (16535): remaining=12355 next=TURN_AVOID_OVER_L target=TURN_LEFT:18875 traveled=1545 speedKph=0
+11-09 07:20:30.026 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:30.380 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:30.381 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:30.508 I/GILBEOT (16535): speed m/s=13.888889 km/h=50.0
+11-09 07:20:30.641 I/GILBEOT (16535): remaining=12353 next=TURN_AVOID_OVER_L target=TURN_LEFT:18873 traveled=1547 speedKph=50
+11-09 07:20:31.016 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:31.380 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:31.381 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:31.651 I/GILBEOT (16535): promise break drivenScaledMin=1
+11-09 07:20:31.653 I/GILBEOT (16535): remaining=12339 next=TURN_AVOID_OVER_L target=TURN_LEFT:18859 traveled=1561 speedKph=50
+11-09 07:20:32.024 I/GILBEOT (16535): onCurrentRoadSpeedLimit speed=0
+11-09 07:20:32.380 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:32.381 I/GILBEOT (16535): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 07:20:32.660 I/GILBEOT (16535): promise break drivenScaledMin=2
+11-09 07:20:32.661 I/GILBEOT (16535): remaining=12325 next=TURN_AVOID_OVER_L target=TURN_LEFT:18845 traveled=1575 speedKph=50

@@ -1,0 +1,32 @@
+M0 first-launch terminal transcript excerpt (manually preserved from adb output)
+Observed: 2026-11-08, AVD pleos21
+
+Permission-dialog state
+-----------------------
+PID:
+25136
+topResumedActivity=com.android.permissioncontroller/.permission.ui.GrantPermissionsActivity
+android.permission.ACCESS_FINE_LOCATION: granted=false
+android.car.permission.CAR_SPEED: granted=false
+FATAL CHECK: no matching line
+
+Key GILBEOT lines from that first-launch run
+---------------------------------------------
+11-08 10:08:40.113 I/GILBEOT ( 6767): onRouteStarted duration=2640 distance=22000
+11-08 10:08:40.857 I/GILBEOT ( 6767): onTBTInfo size=13
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[0] type=TURN_RIGHT distance=700.0 description=대왕판교IC 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[1] type=TURN_RIGHT distance=50.0 description=양재 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[2] type=TURN_ENTER_IC_C distance=110.0 description=대왕판교IC 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[3] type=TURN_TOLL distance=40.0 description=대왕판교톨게이트
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[4] type=TURN_AVOID_OVER_L distance=13000.0 description=한남대교,올림픽대로(종합운동장) 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[5] type=TURN_ENTER_OVER_L distance=2100.0 description=남산1호터널 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[6] type=TURN_ENTER_OVER_L distance=850.0 description=남산1호터널 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[7] type=TURN_TOLL distance=2300.0 description=남산1호터널톨게이트
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[8] type=TURN_ENTER_OVER_L distance=280.0 description=남대문시장 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[9] type=TURN_LEFT distance=990.0 description=을지로1가 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[10] type=TURN_RIGHT distance=720.0 description=청계광장 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[11] type=TURN_LEFT distance=90.0 description=광화문 방면
+11-08 10:08:40.857 I/GILBEOT ( 6767): TBT[12] type=TURN_ARRIVE distance=120.0 description=도착
+11-08 10:08:40.858 I/GILBEOT ( 6767): TBT cumulative=21350.0 routeDistance=22000.0 difference=650.0
+
+Note: this is a preserved excerpt from the terminal result, not a second raw logcat dump.

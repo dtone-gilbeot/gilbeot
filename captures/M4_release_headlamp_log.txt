@@ -1,0 +1,296 @@
+--------- beginning of main
+11-09 08:20:22.811 I/GILBEOT (23523): NaviHelper initialized
+11-09 08:20:23.142 I/GILBEOT (23523): vehicle listeners registered
+11-09 08:20:23.143 I/GILBEOT (23523): tts initialize mode=ON_DEVICE
+11-09 08:20:23.165 I/GILBEOT (23523): requestRoute option=RECOMMENDED name=서울시청 lat=37.5665 lng=126.978
+11-09 08:20:23.172 I/GILBEOT (23523): speed callback registered=true
+11-09 08:20:23.173 I/GILBEOT (23523): location enabledProviders=[passive, fused, gps] selected=[gps, fused]
+11-09 08:20:23.177 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:23.179 I/GILBEOT (23523): location listener registered provider=gps
+11-09 08:20:23.180 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:23.182 I/GILBEOT (23523): location listener registered provider=fused
+11-09 08:20:23.196 I/GILBEOT (23523): tts initialize success mode=ON_DEVICE
+11-09 08:20:23.197 I/GILBEOT (23523): tts speak mode=ON_DEVICE text=길벗이 준비됐습니다.
+11-09 08:20:23.197 I/GILBEOT (23523): promise break drivenScaledMin=0
+11-09 08:20:23.197 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:23.197 I/GILBEOT (23523): speed m/s=0.0 km/h=0.0
+11-09 08:20:23.348 I/GILBEOT (23523): onNavigationStatus status=FREE_DRIVE
+11-09 08:20:23.351 I/GILBEOT (23523): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=0, distance=0, remainDestinationChargingValue=0, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=0, chargerCount=0, chargingPlan=null), waypoints=[])
+11-09 08:20:23.351 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:23.417 I/GILBEOT (23523): lowBeam state=OFF
+11-09 08:20:23.418 I/GILBEOT (23523): turnSignal state=OFF
+11-09 08:20:23.418 I/GILBEOT (23523): turnSignal state=OFF
+11-09 08:20:23.515 I/GILBEOT (23523): onTBTInfo size=0
+11-09 08:20:23.516 I/GILBEOT (23523): TBT cumulative=0.0 routeDistance=null difference=null
+11-09 08:20:23.533 I/GILBEOT (23523): promise headlamp state=OFF notices=0 requestComfortable=false
+11-09 08:20:23.995 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:23.999 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:24.010 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:24.341 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:24.994 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:24.996 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:25.024 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:25.348 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:25.999 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:26.001 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:26.020 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:26.352 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:26.996 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:26.998 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:27.008 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:27.358 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:27.998 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:27.998 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:28.013 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:28.363 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:28.997 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:28.999 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:29.011 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:29.374 I/GILBEOT (23523): remaining=- next=- target=- traveled=0 speedKph=0
+11-09 08:20:29.960 I/GILBEOT (23523): onRouteStarted duration=1560 distance=22000
+11-09 08:20:29.961 I/GILBEOT (23523): onNavigationStatus status=ROUTE_DRIVE
+11-09 08:20:29.961 I/GILBEOT (23523): promise sunset now=15:30 arrival=15:56 sunset=17:26 before=true requestComfortable=false
+11-09 08:20:29.961 I/GILBEOT (23523): notice priority=100 key=route-1-promise-sunset text=해 지는 시각은 오후 5시 26분입니다. 지금 가면 해 지기 전, 오후 3시 56분에 도착합니다.
+11-09 08:20:29.965 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:30.000 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:30.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:30.022 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:30.219 I/GILBEOT (23523): speed m/s=13.888889 km/h=50.0
+11-09 08:20:30.380 I/GILBEOT (23523): remaining=- next=- target=- traveled=3 speedKph=50
+11-09 08:20:30.519 I/GILBEOT (23523): onTBTInfo size=13
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[0] type=TURN_RIGHT distance=700.0 description=대왕판교IC 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[1] type=TURN_RIGHT distance=50.0 description=양재 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[2] type=TURN_ENTER_IC_C distance=110.0 description=대왕판교IC 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[3] type=TURN_TOLL distance=40.0 description=대왕판교톨게이트
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[4] type=TURN_AVOID_OVER_L distance=13000.0 description=한남대교,올림픽대로(종합운동장) 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[5] type=TURN_ENTER_OVER_L distance=2100.0 description=남산1호터널 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[6] type=TURN_ENTER_OVER_L distance=850.0 description=남산1호터널 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[7] type=TURN_TOLL distance=2300.0 description=남산1호터널톨게이트
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[8] type=TURN_ENTER_OVER_L distance=280.0 description=남대문시장 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[9] type=TURN_LEFT distance=990.0 description=을지로1가 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[10] type=TURN_RIGHT distance=720.0 description=청계광장 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[11] type=TURN_LEFT distance=90.0 description=광화문 방면
+11-09 08:20:30.519 I/GILBEOT (23523): TBT[12] type=TURN_ARRIVE distance=120.0 description=도착
+11-09 08:20:30.519 I/GILBEOT (23523): TBT cumulative=21350.0 routeDistance=22000.0 difference=650.0
+11-09 08:20:30.942 I/GILBEOT (23523): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=1560, distance=22000, remainDestinationChargingValue=74505, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=10, chargerCount=0, chargingPlan=null), waypoints=[])
+11-09 08:20:31.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:31.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:31.015 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:31.202 I/GILBEOT (23523): tts timeout mode=ON_DEVICE after=8000ms
+11-09 08:20:31.205 I/GILBEOT (23523): tts fallback reason=timeout next=HYBRID
+11-09 08:20:31.206 I/GILBEOT (23523): tts initialize mode=HYBRID
+11-09 08:20:31.218 I/GILBEOT (23523): tts initialize success mode=HYBRID
+11-09 08:20:31.219 I/GILBEOT (23523): tts speak mode=HYBRID text=길벗이 준비됐습니다.
+11-09 08:20:31.393 I/GILBEOT (23523): remaining=688 next=TURN_RIGHT target=TURN_ENTER_IC_C:848 traveled=12 speedKph=50
+11-09 08:20:32.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:32.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:32.014 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:32.403 I/GILBEOT (23523): remaining=674 next=TURN_RIGHT target=TURN_ENTER_IC_C:834 traveled=26 speedKph=50
+11-09 08:20:33.003 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:33.020 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:33.021 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:33.425 I/GILBEOT (23523): remaining=660 next=TURN_RIGHT target=TURN_ENTER_IC_C:820 traveled=40 speedKph=50
+11-09 08:20:34.000 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:34.008 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:34.010 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:34.431 I/GILBEOT (23523): remaining=646 next=TURN_RIGHT target=TURN_ENTER_IC_C:806 traveled=54 speedKph=50
+11-09 08:20:35.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:35.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:35.015 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:35.444 I/GILBEOT (23523): remaining=632 next=TURN_RIGHT target=TURN_ENTER_IC_C:792 traveled=68 speedKph=50
+11-09 08:20:36.010 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:36.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:36.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:36.451 I/GILBEOT (23523): remaining=618 next=TURN_RIGHT target=TURN_ENTER_IC_C:778 traveled=82 speedKph=50
+11-09 08:20:37.002 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:37.005 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:37.010 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:37.460 I/GILBEOT (23523): remaining=604 next=TURN_RIGHT target=TURN_ENTER_IC_C:764 traveled=96 speedKph=50
+11-09 08:20:38.003 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:38.011 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:38.014 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:38.470 I/GILBEOT (23523): remaining=590 next=TURN_RIGHT target=TURN_ENTER_IC_C:750 traveled=110 speedKph=50
+11-09 08:20:39.007 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:39.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:39.018 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:39.220 I/GILBEOT (23523): tts timeout mode=HYBRID after=8000ms
+11-09 08:20:39.223 I/GILBEOT (23523): tts fallback reason=timeout next=SUBTITLE_ONLY
+11-09 08:20:39.224 I/GILBEOT (23523): tts subtitle-only text=해 지는 시각은 오후 5시 26분입니다. 지금 가면 해 지기 전, 오후 3시 56분에 도착합니다.
+11-09 08:20:39.477 I/GILBEOT (23523): remaining=576 next=TURN_RIGHT target=TURN_ENTER_IC_C:736 traveled=124 speedKph=50
+11-09 08:20:40.005 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:40.005 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:40.025 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:40.487 I/GILBEOT (23523): remaining=562 next=TURN_RIGHT target=TURN_ENTER_IC_C:722 traveled=138 speedKph=50
+11-09 08:20:41.004 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:41.007 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:41.019 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:41.495 I/GILBEOT (23523): remaining=548 next=TURN_RIGHT target=TURN_ENTER_IC_C:708 traveled=152 speedKph=50
+11-09 08:20:42.005 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:42.007 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:42.010 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:42.504 I/GILBEOT (23523): remaining=534 next=TURN_RIGHT target=TURN_ENTER_IC_C:694 traveled=166 speedKph=50
+11-09 08:20:43.009 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:43.011 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:43.018 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:43.528 I/GILBEOT (23523): remaining=519 next=TURN_RIGHT target=TURN_ENTER_IC_C:679 traveled=181 speedKph=50
+11-09 08:20:44.017 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:44.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:44.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:44.534 I/GILBEOT (23523): remaining=505 next=TURN_RIGHT target=TURN_ENTER_IC_C:665 traveled=195 speedKph=50
+11-09 08:20:45.006 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:45.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:45.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:45.247 I/GILBEOT (23523): lowBeam state=ON
+11-09 08:20:45.247 I/GILBEOT (23523): promise headlamp state=ON notices=2 requestComfortable=true
+11-09 08:20:45.247 I/GILBEOT (23523): notice priority=100 key=route-1-promise-headlamp-33359247 text=전조등이 켜졌어요. 약속하신 대로 편안한 경로로 바꿀게요.
+11-09 08:20:45.247 I/GILBEOT (23523): notice priority=100 key=route-1-promise-rest-33359247 text=쉬어 갈 곳이 필요하면 차를 세웠을 때 알려 주세요.
+11-09 08:20:45.247 I/GILBEOT (23523): changeRouteOption call option=COMFORTABLE reason=headlamp
+11-09 08:20:45.251 I/GILBEOT (23523): changeRouteOption call option=COMFORTABLE reason=headlamp ok
+11-09 08:20:45.340 I/GILBEOT (23523): tts subtitle-only text=전조등이 켜졌어요. 약속하신 대로 편안한 경로로 바꿀게요.
+11-09 08:20:45.542 I/GILBEOT (23523): tts subtitle-only text=쉬어 갈 곳이 필요하면 차를 세웠을 때 알려 주세요.
+11-09 08:20:45.542 I/GILBEOT (23523): remaining=491 next=TURN_RIGHT target=TURN_ENTER_IC_C:651 traveled=209 speedKph=50
+11-09 08:20:46.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:46.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:46.022 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:46.462 I/GILBEOT (23523): lowBeam state=OFF
+11-09 08:20:46.462 I/GILBEOT (23523): promise headlamp state=OFF notices=0 requestComfortable=false
+11-09 08:20:46.549 I/GILBEOT (23523): remaining=477 next=TURN_RIGHT target=TURN_ENTER_IC_C:637 traveled=223 speedKph=50
+11-09 08:20:47.011 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:47.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:47.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:47.480 I/GILBEOT (23523): lowBeam state=ON
+11-09 08:20:47.480 I/GILBEOT (23523): promise headlamp state=ON notices=0 requestComfortable=false
+11-09 08:20:47.554 I/GILBEOT (23523): remaining=463 next=TURN_RIGHT target=TURN_ENTER_IC_C:623 traveled=237 speedKph=50
+11-09 08:20:47.902 I/GILBEOT (23523): speed m/s=0.0 km/h=0.0
+11-09 08:20:48.011 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:48.012 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:48.022 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:48.560 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:49.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:49.024 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:49.035 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:49.567 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:50.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:50.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:50.023 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:50.251 I/GILBEOT (23523): getTBTInfo requested 5s after option change
+11-09 08:20:50.261 I/GILBEOT (23523): onTBTInfo size=13
+11-09 08:20:50.262 I/GILBEOT (23523): sameTbtAfterOptionChange size=13 elapsedMs=5015 (route unchanged)
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[0] type=TURN_RIGHT distance=700.0 description=대왕판교IC 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[1] type=TURN_RIGHT distance=50.0 description=양재 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[2] type=TURN_ENTER_IC_C distance=110.0 description=대왕판교IC 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[3] type=TURN_TOLL distance=40.0 description=대왕판교톨게이트
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[4] type=TURN_AVOID_OVER_L distance=13000.0 description=한남대교,올림픽대로(종합운동장) 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[5] type=TURN_ENTER_OVER_L distance=2100.0 description=남산1호터널 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[6] type=TURN_ENTER_OVER_L distance=850.0 description=남산1호터널 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[7] type=TURN_TOLL distance=2300.0 description=남산1호터널톨게이트
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[8] type=TURN_ENTER_OVER_L distance=280.0 description=남대문시장 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[9] type=TURN_LEFT distance=990.0 description=을지로1가 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[10] type=TURN_RIGHT distance=720.0 description=청계광장 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[11] type=TURN_LEFT distance=90.0 description=광화문 방면
+11-09 08:20:50.262 I/GILBEOT (23523): TBT[12] type=TURN_ARRIVE distance=120.0 description=도착
+11-09 08:20:50.262 I/GILBEOT (23523): TBT cumulative=21350.0 routeDistance=22000.0 difference=650.0
+11-09 08:20:50.262 I/GILBEOT (23523): duplicate TBT list ignored
+11-09 08:20:50.573 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:51.001 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:51.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:51.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:51.582 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:52.003 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:52.014 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:52.014 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:52.585 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:53.008 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:53.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:53.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:53.593 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:54.007 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:54.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:54.030 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:54.596 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:55.017 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:55.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:55.025 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:55.602 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:56.016 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:56.036 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:56.036 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:56.626 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:57.003 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:57.018 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:57.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:57.631 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:58.017 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:58.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:58.022 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:58.636 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:20:59.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:59.020 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:20:59.020 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:20:59.643 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:00.020 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:00.024 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:00.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:00.648 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:01.017 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:01.023 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:01.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:01.658 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:02.010 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:02.019 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:02.021 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:02.664 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:03.002 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:03.025 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:03.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:03.673 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:04.009 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:04.022 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:04.024 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:04.680 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:05.013 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:05.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:05.028 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:05.688 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:06.029 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:06.030 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:06.032 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:06.693 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:07.021 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:07.025 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:07.027 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:07.700 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:08.005 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:08.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:08.028 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:08.702 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:09.018 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:09.027 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:09.029 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:09.719 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:10.015 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:10.026 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:10.028 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:10.726 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:11.008 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:11.031 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:11.036 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:11.735 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:12.016 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:12.027 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:12.029 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:12.745 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:13.008 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:13.027 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:13.028 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:13.752 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:14.025 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:14.029 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:14.031 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:14.758 I/GILBEOT (23523): remaining=460 next=TURN_RIGHT target=TURN_ENTER_IC_C:620 traveled=240 speedKph=0
+11-09 08:21:15.022 I/GILBEOT (23523): onCurrentRoadSpeedLimit speed=0
+11-09 08:21:15.027 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:15.031 I/GILBEOT (23523): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-09 08:21:15.247 I/GILBEOT (23523): noNewTbtAfterOptionChange 30s
+11-09 08:21:15.508 I/GILBEOT (23523): lowBeam state=OFF
+11-09 08:21:15.508 I/GILBEOT (23523): promise headlamp state=OFF notices=0 requestComfortable=false

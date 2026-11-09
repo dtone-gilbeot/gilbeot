@@ -1,0 +1,65 @@
+--------- beginning of main
+11-08 10:11:30.936 I/GILBEOT ( 4394): NaviHelper initialized
+11-08 10:11:32.115 I/GILBEOT ( 4394): vehicle listeners registered
+11-08 10:11:32.116 I/GILBEOT ( 4394): tts initialize mode=ON_DEVICE
+11-08 10:11:32.184 I/GILBEOT ( 4394): speed callback registered=true
+11-08 10:11:32.185 I/GILBEOT ( 4394): location enabledProviders=[passive, fused, gps] selected=[gps, fused]
+11-08 10:11:32.189 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:32.192 I/GILBEOT ( 4394): location listener registered provider=gps
+11-08 10:11:32.195 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:32.196 I/GILBEOT ( 4394): location listener registered provider=fused
+11-08 10:11:32.235 I/GILBEOT ( 4394): requestRoute option=RECOMMENDED name=서울시청 lat=37.5665 lng=126.978
+11-08 10:11:32.269 I/GILBEOT ( 4394): tts initialize success mode=ON_DEVICE
+11-08 10:11:32.274 I/GILBEOT ( 4394): tts speak mode=ON_DEVICE text=길벗이 준비됐습니다.
+11-08 10:11:32.274 I/GILBEOT ( 4394): speed m/s=0.0 km/h=0.0
+11-08 10:11:32.485 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:32.632 I/GILBEOT ( 4394): onNavigationStatus status=FREE_DRIVE
+11-08 10:11:32.666 I/GILBEOT ( 4394): lowBeam state=OFF
+11-08 10:11:32.671 I/GILBEOT ( 4394): turnSignal state=OFF
+11-08 10:11:32.671 I/GILBEOT ( 4394): lowBeam state=OFF
+11-08 10:11:32.671 I/GILBEOT ( 4394): turnSignal state=OFF
+11-08 10:11:32.758 I/GILBEOT ( 4394): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=0, distance=0, remainDestinationChargingValue=0, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=0, chargerCount=0, chargingPlan=null), waypoints=[])
+11-08 10:11:32.767 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:32.776 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:33.018 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:33.263 I/GILBEOT ( 4394): onTBTInfo size=0
+11-08 10:11:33.264 I/GILBEOT ( 4394): TBT cumulative=0.0 routeDistance=null difference=null
+11-08 10:11:33.766 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:33.769 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:34.062 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:34.766 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:34.768 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:35.005 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:35.768 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:35.775 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:36.011 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:36.768 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:36.776 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:37.010 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:37.769 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:37.772 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:38.012 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:38.772 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:38.782 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:39.012 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:39.410 I/GILBEOT ( 4394): onRouteStarted duration=2700 distance=22000
+11-08 10:11:39.411 I/GILBEOT ( 4394): onNavigationStatus status=ROUTE_DRIVE
+11-08 10:11:39.411 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:39.779 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:39.781 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:40.005 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:40.266 I/GILBEOT ( 4394): onDrivingInfo DrivingInfo(destination=DrivingState(name=서울시청, duration=2700, distance=22000, remainDestinationChargingValue=74534, isChargingStation=false, isRecommendedChargingStation=false, maxChargingPower=0, targetSoc=10, chargerCount=0, chargingPlan=null), waypoints=[])
+11-08 10:11:40.275 I/GILBEOT ( 4394): tts timeout mode=ON_DEVICE after=8000ms
+11-08 10:11:40.277 I/GILBEOT ( 4394): tts fallback reason=timeout next=HYBRID
+11-08 10:11:40.278 I/GILBEOT ( 4394): tts initialize mode=HYBRID
+11-08 10:11:40.296 I/GILBEOT ( 4394): tts initialize success mode=HYBRID
+11-08 10:11:40.305 I/GILBEOT ( 4394): tts speak mode=HYBRID text=길벗이 준비됐습니다.
+11-08 10:11:40.776 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:40.778 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:41.027 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:41.775 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:41.786 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:42.013 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0
+11-08 10:11:42.780 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:42.782 I/GILBEOT ( 4394): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:11:43.024 I/GILBEOT ( 4394): onCurrentRoadSpeedLimit speed=0

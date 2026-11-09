@@ -1,0 +1,5 @@
+apk/DTONE_길벗_release.apk SHA-256(file)=325D5F6A4A962264AF86451263B2D5A5A1348DB1C45D490CCEB4C26D040E432C (11/09 DTONE key)
+Signer #1 certificate DN: CN=DTONE
+Signer #1 certificate SHA-256 digest: e03e3a4dbc1ae5abedd29ee00dddf6e3b7b94775865146ff7c66b4e7ccbf495c
+Signer #1 certificate SHA-1 digest: 19140d65a803bc66dbf67674b42b78a85f8a89bd
+Signer #1 certificate MD5 digest: 06df31dea330a53268ccfae413c77b65

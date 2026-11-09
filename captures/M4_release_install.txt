@@ -1,0 +1,16 @@
+== final APK sha256 / install without -g (after pm uninstall --user 10)
+E76F3F75BB2D478402114838D242E8E44037A53DDD9944F13153C50980B4285B
+Success
+Performing Streamed Install
+Success
+== direct start of MainActivity without permissions (should redirect to LaunchActivity), then DENY
+versionName=1.0
+android.permission.ACCESS_FINE_LOCATION: granted=false, flags=[ USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+android.car.permission.CAR_SPEED: granted=false
+android.permission.ACCESS_FINE_LOCATION: granted=false, flags=[ USER_SET|USER_SENSITIVE_WHEN_GRANTED|USER_SENSITIVE_WHEN_DENIED]
+android.car.permission.CAR_SPEED: granted=false, flags=[ USER_SET]
+11-09 08:17:00.598 19038 19038 I GILBEOT : launch requestPermissions permissions=[android.car.permission.CAR_SPEED, android.permission.ACCESS_FINE_LOCATION]
+11-09 08:17:04.353 19038 19038 I GILBEOT : launch permission result android.car.permission.CAR_SPEED=-1, android.permission.ACCESS_FINE_LOCATION=-1
+11-09 08:17:04.738 19038 19038 I GILBEOT : speed permission denied; idle
+11-09 08:17:04.739 19038 19038 I GILBEOT : location permission denied; fallback Seoul
+11-09 08:17:11.838 19038 19772 I GILBEOT : onRouteStarted duration=1560 distance=22000

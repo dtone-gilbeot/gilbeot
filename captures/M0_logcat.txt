@@ -1,0 +1,64 @@
+--------- beginning of main
+11-08 10:09:33.005 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:33.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:33.743 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:33.910 I/GILBEOT (10724): speed m/s=13.888889 km/h=50.0
+11-08 10:09:34.023 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:34.667 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:34.670 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:35.003 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:35.667 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:35.670 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:35.868 I/GILBEOT (10724): lowBeam state=ON
+11-08 10:09:36.012 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:36.671 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:36.679 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:36.884 I/GILBEOT (10724): lowBeam state=OFF
+11-08 10:09:37.020 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:37.676 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:37.680 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:37.900 I/GILBEOT (10724): turnSignal state=LEFT
+11-08 10:09:38.013 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:38.691 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:38.746 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:38.997 I/GILBEOT (10724): turnSignal state=OFF
+11-08 10:09:39.068 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:39.671 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:39.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:40.006 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:40.672 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:40.680 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:41.011 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:41.672 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:41.687 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:42.016 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:42.672 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:42.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:43.025 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:43.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:43.679 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:44.008 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:44.675 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:44.680 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:45.013 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:45.674 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:45.679 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:46.030 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:46.675 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:46.682 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:47.008 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:47.675 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:47.684 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:48.005 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:48.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:48.684 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:49.012 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:49.677 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:49.679 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:50.019 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:50.678 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:50.680 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:51.009 I/GILBEOT (10724): onCurrentRoadSpeedLimit speed=0
+11-08 10:09:51.683 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:51.684 I/GILBEOT (10724): location provider=gps lat=37.502 lng=127.033 speed=0.0
+11-08 10:09:51.709 I/GILBEOT (10724): speed m/s=0.0 km/h=0.0
